@@ -6,7 +6,6 @@ namespace StringProblems.Shell
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
