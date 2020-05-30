@@ -7,7 +7,7 @@
 * [Longest substring with K distinct characters](./src/StringProblems/LongestSubstringWithKDistinctCharacters.cs)
 * [Check if string s2 is rotation of s1](./src/StringProblems/CheckToSeeStringOneIsRotationOfAnotherStringTwo.cs)
 * [Sort characters in string based on frequency](./src/StringProblems/SortStringBasedOnFrequencyOfCharacters.cs)
-* [Permutations of a string](./src/StringProblems/PermutationsOfString.cs)
+* [Permutations of a string](./src/StringProblems/StringPermutations)
 
 ### Medium
 
