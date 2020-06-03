@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace StringProblems
+namespace StringProblems.LongestSubstringWithoutRepeatingCharacters
 {
     /// <summary>
     /// Problem is taken from GeeksForGeeks:
     /// Length of the longest substring without repeating characters
     /// https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/
     /// </summary>
-    public class LongestSubstringWithoutRepeatingCharacters
+    public class LongestSubstringWithoutRepeatingCharactersV1
     {
         public int Find(string text)
         {
