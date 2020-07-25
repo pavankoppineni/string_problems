@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StringProblems.MicrosoftExcelColumnNumbers;
+using System;
 
 namespace StringProblems.Shell
 {

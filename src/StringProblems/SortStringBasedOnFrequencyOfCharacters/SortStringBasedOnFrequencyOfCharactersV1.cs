@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 
-namespace StringProblems
+namespace StringProblems.SortStringBasedOnFrequencyOfCharacters
 {
     /// <summary>
     /// Problem : Sort characters in string based on frequency of characters.
@@ -16,7 +16,7 @@ namespace StringProblems
     /// Input : abc
     /// Output : abc
     /// </summary>
-    public class SortStringBasedOnFrequencyOfCharacters
+    public class SortStringBasedOnFrequencyOfCharactersV1
     {
         public string Sort(string str)
         {
