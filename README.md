@@ -1,3 +1,8 @@
+# Resources
+
+* [String Matching](https://www.wild-inter.net/teaching/comp526/04-string-matching)
+* [Text Indexing](https://www.wild-inter.net/teaching/comp526/06-text-indexing)
+
 # String Problems
 
 ### Easy
