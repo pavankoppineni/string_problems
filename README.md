@@ -13,6 +13,7 @@
 * [Check if string s2 is rotation of s1](./src/StringProblems/CheckToSeeStringOneIsRotationOfAnotherStringTwo.cs)
 * [Sort characters in string based on frequency](./src/StringProblems/SortStringBasedOnFrequencyOfCharacters.cs)
 * [Permutations of a string](./src/StringProblems/StringPermutations)
+* [Backspace String Compare](./src/StringProblems/BackspaceStringCompare)
 
 ### Medium
 
